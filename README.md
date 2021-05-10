@@ -2,19 +2,20 @@
 My name is Geoff Mitchell, welcome to my **README** file, where I ~~poorly use~~ learn how to use markdown language.
 
 
-Currently I live in New Jersey with my wife, Ann, and our 11 year old daughter, Leah. Ann grew up in Bergen County while I'm from Massachusetts originally. I'm a veteran of the US Marine Corps and have worn a few other hats in my career
+Currently I live in New Jersey with my wife, Ann, and our 11 year old daughter, Leah. Ann grew up in Bergen County NJ, while I'm from Massachusetts originally. I'm a veteran of the US Marine Corps, and served from 2005 - 2011. My duty station was in Hawaii and I can confirm life is beautiful out there! I also spent time in Okinawa, South Korea and two trips to the desert of Afghanistan. Below I have listed a few other "hats" I've worn over the years.
+
 ![emblem](USMC.svg)
 
 - Backstage crew for Broadway productions
 - Bartender [*Check out my old bar!*](https://sm23morristown.com)
-- Professional recruiter on both the agency & corporate side.
+- Professional Recruiter
 
-When the pandemic hit I had a similar thought to many other people in the class it seems; find a solid skillset that can be worked remotely. I've always had an interest in coding, and used to write webpages in HTML when I was in highschool.
+I hold a Bachelor's Degree in Print Journalism from William Paterson University. When the pandemic hit I had a similar thought to many other people in the class it seems; find a solid skillset that can be worked remotely. I've always had an interest in coding, and used to write webpages in HTML when I was in highschool.
 
 Soome of my personal interests include -
 - Movies
 - Cooking
-- The Red Sox & New England Patriots
+- The Boston Red Sox & New England Patriots
 - Hiking
 - Overly complicated games that feel more like a job than entertainment
 
