@@ -35,7 +35,7 @@ I will now attempt to create a definition list in markdown, my first example is 
 
 Here are some inspiring words to live by from Mookie Wilson, former Center Fielder for the Mets.
 
->When I'm in a slump, I comfort myself by saying if I belive in dinosaurs, then somewhere, they must be believeing in me. And if they believe in me, then I can believe in me. Then I bust out.
+>When I'm in a slump, I comfort myself by saying if I believe in dinosaurs, then somewhere, they must be believing in me. And if they believe in me, then I can believe in me. Then I bust out.
 
 ---
 ## Table Time
