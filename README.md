@@ -26,6 +26,11 @@ I will now attempt to create a definition list in markdown, my first example is 
 **business**
 : *(n)* a group of ferrets
 
+*To Do List*
+
+- [x] Find out what to call a group of ferrets
+- [ ] Find out why a group of ferrets is called a business
+
 ---
 
 Here are some inspiring words to live by from Mookie Wilson, former Center Fielder for the Mets.
