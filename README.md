@@ -40,6 +40,7 @@ Here we can see that the lovely Boston Red Sox hold first place in the AL East, 
 
 
 ***As of 5/10/2021***
+
 | Team | W-L | GB |
 | --- | ---: | --- |
 | Red Sox | 22-13 | - |
