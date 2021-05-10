@@ -47,3 +47,7 @@ Here we can see that the lovely Boston Red Sox hold first place in the AL East, 
 | Rays | 19-17 | 3.5 |
 | Blue Jays | 17-16 | 4.0 |
 | Orioles | 15-19 | 6.5 |
+
+---
+
+That's all for now, thanks for reading.
