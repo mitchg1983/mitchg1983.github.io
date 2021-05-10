@@ -19,6 +19,7 @@ Soome of my personal interests include -
 - Hiking
 - Overly complicated games that feel more like a job than entertainment
 
+---
 
 I will now attempt to create a definition list in markdown, my first example is this strange term for what you call a group of ferrets.
 
@@ -26,9 +27,17 @@ I will now attempt to create a definition list in markdown, my first example is 
 : *(n)* a group of ferrets
 
 ---
+
+Here are some inspiring words to live by from Mookie Wilson, former Center Fielder for the Mets.
+
+>When I'm in a slump, I comfort myself by saying if I belive in dinosaurs, then somewhere, they must be believeing in me. And if they believe in me, then I can believe in me. Then I bust out.
+
+---
 ## Table Time
 
 Here we can see that the lovely Boston Red Sox hold first place in the AL East, with a 3.5 game lead over the Yankees. While I am not a professional baseball analyst, I predict that Boston will crush their opposition for the rest of the year. Every time the Yankees lose a game, an angel gets their wings. *(This is an old fairytale told to children in Massachusetts.)*
+
+
 
 ***As of 5/10/2021***
 | Team | W-L | GB |
